@@ -6,7 +6,7 @@ Proficient with MySql database and PHP Myadmin.
 
 - 🔭 I’m currently working on Full Stack flutter projects
 - 🌱 I’m currently learning Python for Data Science.
-- 👯 I’m looking to collaborate on any Mobile Application Project.
+- 👯 I’m looking to collaborate on any Mobile and Web Application Project.
 
 
 
