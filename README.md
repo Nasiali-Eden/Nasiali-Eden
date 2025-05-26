@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 I am Eden Nasiali, a Software Engineering Student with hands on experience in developing both Mobile and Web Applications using dart and flutter.
 I also design and develop responsive and Interactive websites with HTML/CSS Javascript(React Js).
