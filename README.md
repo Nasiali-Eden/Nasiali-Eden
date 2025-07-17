@@ -10,6 +10,9 @@ Proficient with MySql database and PHP Myadmin.
   - Data Analysis and modelling with Python
   - Model Training and testing with Python and Weka
 
+## Currently Learning
+  - Blockchain Applications with Celo
+
 
 
 
