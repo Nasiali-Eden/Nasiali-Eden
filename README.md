@@ -11,7 +11,7 @@ Proficient with MySql database and PHP Myadmin.
   - Model Training and testing with Python and Weka
 
 ## Currently Learning
-  - Decentralized Application development with Celo
+  - Decentralized Application development with Cardano(Plutus)
 
 
 
